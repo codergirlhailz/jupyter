@@ -17,6 +17,7 @@ Conveniently, you can separate your code into multiple cells. This allows you to
 
 ####Git
 Save your notebook with a name. It will appear as a .ipynb file. You can add these notebooks to git just as you would a regular .py file.
+
 1. Navigate to your 'jupyter' directory in your command line
 2. `git init`
 3. `git status` you should see your .ipynb file ready to be added
