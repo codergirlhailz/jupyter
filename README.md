@@ -2,6 +2,8 @@
 
 ####Set up
 `pip3 install jupyter`
+OR
+If you have anaconda, jupyter comes already installed!
 
 ####Start it
 1. Command line- `jupyter notebook`
